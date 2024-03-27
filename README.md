@@ -6,6 +6,9 @@
 
 <img width="962" alt="image" src="https://github.com/TiffanyWilkins/Data-Visualization/assets/54362628/ff6237ee-f565-47ae-95bc-eff84ee6566f">
 
+<img width="826" alt="image" src="https://github.com/TiffanyWilkins/Data-Visualization/assets/54362628/c65ce6aa-5b83-47c4-b547-2696f6930440">
+
+
 <img width="817" alt="image" src="https://github.com/TiffanyWilkins/Data-Visualization/assets/54362628/c20da26d-0919-4e79-ab91-ff217f89aa5a">
 
 <img width="2686" alt="image" src="https://github.com/TiffanyWilkins/Data-Visualization/assets/54362628/913db4a4-42cd-43b0-98dd-37f720a9f0c5">
